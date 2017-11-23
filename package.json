@@ -1,0 +1,22 @@
+{
+  "name": "lambdu",
+  "description": "Lambda Task Automation",
+  "version": "0.0.1",
+  "keywords": [
+    "aws lambda"
+  ],
+  "maintainers": [
+    {
+      "name": "hugosenari",
+      "email": "hugosenari@gmail.com",
+      "web": "http://github.com:hugosenari/lambdu.git"
+    }
+  ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:hugosenari/lambdu.git"
+    }
+  ],
+  "homepage": "https://github.com/hugosenari/lambdu"
+}
